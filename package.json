@@ -1,0 +1,19 @@
+{
+  "name": "seems-nocountryforgeeks",
+  "version": "1.0.0",
+  "description": "nocountryforgeeks blog",
+  "main": "index.js",
+  "repository": "https://github.com/NoCountryForGeeks/seems-nocountryforgeeks",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
