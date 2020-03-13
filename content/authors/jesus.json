@@ -1,0 +1,16 @@
+{
+    "layout": "author",
+    "username": "jesus",
+    "displayname": "Jesús Giganto Diez",
+    "location": "Madrid",
+    "url_full": false,
+    "url": false,
+    "bio": {
+        "es": ""
+    },
+    "picture": false,
+    "facebook": false,
+    "twitter": false,
+    "feed": false,
+    "cover": false
+}

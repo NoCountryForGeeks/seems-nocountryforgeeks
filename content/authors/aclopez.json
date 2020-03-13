@@ -1,0 +1,16 @@
+{
+    "layout": "author",
+    "username": "aclopez",
+    "displayname": "Ángel Carlos López",
+    "location": "Tomelloso",
+    "url_full": "http://www.ajedreztomelloso.com/",
+    "url": "www.ajedreztomelloso.com/",
+    "bio": {
+        "es": "Sabía quien era esta mañana; pero he cambiado varias veces desde entonces."
+    },
+    "picture": "assets/images/blog/authors/aclopez.jpeg",
+    "facebook": false,
+    "twitter": "_aclopez",
+    "feed": false,
+    "cover": "assets/images/blog/authors/aclopez_cover.jpg"
+}

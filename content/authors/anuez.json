@@ -1,0 +1,16 @@
+{
+    "layout": "author",
+    "username": "anuez",
+    "displayname": "Alberto de la Nuez",
+    "location": "Madrid",
+    "url_full": "https://twitter.com/albertonuezrom",
+    "url": "twitter.com/albertonuezrom",
+    "bio": {
+        "es": ""
+    },
+    "picture": "assets/images/blog/authors/anuez.jpg",
+    "facebook": false,
+    "twitter": "albertonuezrom",
+    "feed": false,
+    "cover": false
+}
