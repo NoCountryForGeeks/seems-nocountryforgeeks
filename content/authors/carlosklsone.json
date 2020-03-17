@@ -1,0 +1,16 @@
+{
+    "layout": "author",
+    "username": "carlosklsone",
+    "displayname": "CarlosKlsOne",
+    "location": "Madrid",
+    "url_full": false,
+    "url": false,
+    "bio": {
+        "es": ""
+    },
+    "picture": "assets/images/blog/authors/carlosklsone.png",
+    "facebook": false,
+    "twitter": false,
+    "feed": false,
+    "cover": "assets/images/blog/authors/carlosklsone_cover.jpg"
+}

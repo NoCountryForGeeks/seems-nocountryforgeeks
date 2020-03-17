@@ -1,0 +1,16 @@
+{
+    "layout": "author",
+    "username": "jgarcia",
+    "displayname": "Joaquín García Piñero",
+    "location": "Murcia",
+    "url_full": "https://twitter.com/xXjoakinXx",
+    "url": "twitter.com/xXjoakinXx",
+    "bio": {
+        "es": "Software engineer en Orenes Grupo"
+    },
+    "picture": "assets/images/blog/authors/jgarcia.jpg",
+    "facebook": false,
+    "twitter": "xXjoakinXx",
+    "feed": false,
+    "cover": false
+}

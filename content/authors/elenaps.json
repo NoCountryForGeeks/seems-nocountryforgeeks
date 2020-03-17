@@ -1,0 +1,16 @@
+{
+    "layout": "author",
+    "username": "elenaps",
+    "displayname": "Elena Pérez Sánchez",
+    "location": "Madrid",
+    "url_full": "https://twitter.com/ellepsanchez",
+    "url": "twitter.com/ellepsanchez",
+    "bio": {
+        "es": ""
+    },
+    "picture": "assets/images/blog/authors/elenaps.jpg",
+    "facebook": false,
+    "twitter": "ellepsanchez",
+    "feed": false,
+    "cover": false
+}
